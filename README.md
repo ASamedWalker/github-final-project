@@ -7,4 +7,4 @@ __Input__:<br>
   **t**, time period in years<br>
   **r**, annual rate of interest<br>
 __Output__<br>
-  __simple interest__ = p*|t|*r
+  __simple interest__ = p*t*r
