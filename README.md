@@ -11,4 +11,4 @@ __Input__:<br>
 
 __Output__<br>
 
-   &nbsp;&nbsp;&nbsp;&nbsp;__simple interest__ = p$* t *$*r
+   &nbsp;&nbsp;&nbsp;&nbsp;__simple interest__ = p$* t *$r
